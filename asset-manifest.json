@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/gaia-space/static/js/app.5c90f057.chunk.js",
+    "app.js.map": "/gaia-space/static/js/app.5c90f057.chunk.js.map",
+    "runtime~app.js": "/gaia-space/static/js/runtime~app.17d215ef.js",
+    "runtime~app.js.map": "/gaia-space/static/js/runtime~app.17d215ef.js.map",
+    "static/js/2.6699a384.chunk.js": "/gaia-space/static/js/2.6699a384.chunk.js",
+    "static/js/2.6699a384.chunk.js.map": "/gaia-space/static/js/2.6699a384.chunk.js.map",
+    "favicon-16.png": "/gaia-space/favicon-16.png",
+    "favicon-32.png": "/gaia-space/favicon-32.png",
+    "favicon.ico": "/gaia-space/favicon.ico",
+    "index.html": "/gaia-space/index.html",
+    "manifest.json": "/gaia-space/manifest.json",
+    "serve.json": "/gaia-space/serve.json",
+    "static/js/2.6699a384.chunk.js.LICENSE.txt": "/gaia-space/static/js/2.6699a384.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.17d215ef.js",
+    "static/js/2.6699a384.chunk.js",
+    "static/js/app.5c90f057.chunk.js"
+  ]
+}
